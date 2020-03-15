@@ -31,6 +31,20 @@
             "function":"_eventDiscussMsg",
             "priority":30000
         },
+		{
+            "id":6,
+            "type":102,
+            "name":"群成员减少事件处理",
+            "function":"_eventSystem_GroupMemberDecrease",
+            "priority":30000
+        },
+        {
+            "id":7,
+            "type":103,
+            "name":"群成员增加事件处理",
+            "function":"_eventSystem_GroupMemberIncrease",
+            "priority":30000
+        },
         {
             "id":1001,
             "type":1001,
