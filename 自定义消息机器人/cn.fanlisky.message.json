@@ -66,7 +66,8 @@
    
         101,  //发送群消息			sendGroupMsg
       
-        106 //发送私聊消息		sendPrivateMsg
+        106, //发送私聊消息		sendPrivateMsg
+        161 //获取群号
        
     ]
 }
